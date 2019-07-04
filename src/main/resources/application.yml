@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: github-batch-delete
+
+github:
+  username: wang-y
+  password: git!#943618
+  repositorys: shadowsocksr-1
+
+chrome:
+  win:
+    bin: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
