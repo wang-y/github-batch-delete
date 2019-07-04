@@ -3,9 +3,9 @@ spring:
     name: github-batch-delete
 
 github:
-  username: wang-y
-  password: git!#943618
-  repositorys: shadowsocksr-1
+  username: username
+  password: password
+  repositorys: repo1,repo2,repo3
 
 chrome:
   win:
